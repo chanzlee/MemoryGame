@@ -1,0 +1,19 @@
+.col
+{
+    border: 1px solid black;
+    height: 90px;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.front 
+{
+    background-color: pink;
+}
+
+/* #result{
+    display: none;
+} */
